@@ -14,3 +14,4 @@ uv.lock
 data/roles/global/global_config.rendered.nac.yml
 .vscode
 tests
+.devcontainer/devcontainer-lock.json
